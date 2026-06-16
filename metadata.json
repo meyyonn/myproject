@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Confession Note",
+  "description": "A glassmorphism-styled multi-page confession web app with envelope animations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
